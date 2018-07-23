@@ -34,40 +34,44 @@
 		<dc:subject id="subject-2">Detective and mystery stories, English</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/108</meta>
 		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/108</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Mystery</meta>
+		<dc:description id="description">The world’s first consulting detective returns to London after having faked his death some years before and again investigates a series of baffling mysteries.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONGDESCRIPTION
+			&lt;p&gt;&lt;i&gt;The Return of Sherlock Holmes&lt;/i&gt; is the third collection of Holmes stories by Arthur Conan Doyle, published in 1905. It includes stories published in &lt;i&gt;The Strand Magazine&lt;/i&gt; in 1903 and 1904, so bringing Holmes for the first time into the twentieth century.&lt;/p&gt;
+			&lt;p&gt;Doyle had memorably ‘killed off’ Holmes in a struggle with his nemesis Professor Moriarty in the story “The Final Problem”, which had appeared in 1893 (and which is included in the collection &lt;i&gt;The Memoirs of Sherlock Holmes&lt;/i&gt;). Intense public demand for more Holmes material after that time had led to Doyle writing the novel &lt;i&gt;The Hound of the Baskervilles&lt;/i&gt;, and then finally to begin writing Holmes short stories once more. The first story in this collection, “The Adventure of the Empty House” finds Dr. Watson united once again with his old friend Sherlock Holmes, who explains how and why he faked his death at the Reichenbach Falls.&lt;/p&gt;
+			&lt;p&gt;Apart from the leading story which ‘resurrects’ Holmes, this collection contains a number of the best-known Holmes stories. “The Adventure of the Dancing Men” has Holmes deciphering a cryptogram to solve a mystery; encountering a callous blackmailer in “The Adventure of Charles Augustus Milverton”; working out why cheap busts of Napoleon are being shattered all over London; and possibly averting a major war in “The Adventure of the Second Stain”.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/108</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<dc:source>https://archive.org/details/returnsherlockh00doylgoog</dc:source>
+		<meta property="se:production-notes">Because of the very poor quality of page scans, I have hand-traced and partially re-created the figures of the dancing men in the story of that name.</meta>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Return_of_Sherlock_Holmes</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/arthur-conan-doyle_the-return-of-sherlock-holmes</meta>
 		<dc:creator id="author">Arthur Conan Doyle</dc:creator>
-		<meta property="file-as" refines="#author">AUTHORSORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">AUTHORFULLNAME</meta>
+		<meta property="file-as" refines="#author">Doyle, Arthur Conan</meta>
+		<meta property="se:name.person.full-name" refines="#author">Sir Arthur Ignatius Conan Doyle</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Arthur_Conan_Doyle</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79082292</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVERARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVERARTISTWIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVERARTISTNACOAFLINK</meta>
+		<dc:contributor id="artist">William Logsdail</dc:contributor>
+		<meta property="file-as" refines="#artist">Logsdail, William</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/William_Logsdail</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr96008501</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">An Anonymous Volunteer</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBERSORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Anonymous Volunteer</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBERSORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCERSORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">LINK</meta>
+		<dc:contributor id="producer-1">David Grigg</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Grigg, David</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://rightword.com.au/david.php</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
