@@ -40,8 +40,8 @@
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Return of Sherlock Holmes&lt;/i&gt; is the third collection of Holmes stories by Arthur Conan Doyle, published in 1905. It includes stories published in &lt;i&gt;The Strand Magazine&lt;/i&gt; in 1903 and 1904, so bringing Holmes for the first time into the twentieth century.&lt;/p&gt;
-			&lt;p&gt;Doyle had memorably ‘killed off’ Holmes in a struggle with his nemesis Professor Moriarty in the story “The Final Problem”, which had appeared in 1893 (and which is included in the collection &lt;i&gt;The Memoirs of Sherlock Holmes&lt;/i&gt;). Intense public demand for more Holmes material after that time had led to Doyle writing the novel &lt;i&gt;The Hound of the Baskervilles&lt;/i&gt;, and then finally to begin writing Holmes short stories once more. The first story in this collection, “The Adventure of the Empty House” finds Dr. Watson united once again with his old friend Sherlock Holmes, who explains how and why he faked his death at the Reichenbach Falls.&lt;/p&gt;
-			&lt;p&gt;Apart from the leading story which ‘resurrects’ Holmes, this collection contains a number of the best-known Holmes stories. “The Adventure of the Dancing Men” has Holmes deciphering a cryptogram to solve a mystery; encountering a callous blackmailer in “The Adventure of Charles Augustus Milverton”; working out why cheap busts of Napoleon are being shattered all over London; and possibly averting a major war in “The Adventure of the Second Stain”.&lt;/p&gt;
+			&lt;p&gt;Doyle had memorably ‘killed off’ Holmes in a struggle with his nemesis Professor Moriarty in the story “The Final Problem,” which had appeared in 1893 (and which is included in the collection &lt;i&gt;The Memoirs of Sherlock Holmes&lt;/i&gt;). Intense public demand for more Holmes material after that time had led to Doyle writing the novel &lt;i&gt;The Hound of the Baskervilles&lt;/i&gt;, and then finally to return to writing Holmes short stories once more. The first story in this collection, “The Adventure of the Empty House” finds Dr. Watson united once again with his old friend Sherlock Holmes, who explains how and why he faked his death at the Reichenbach Falls.&lt;/p&gt;
+			&lt;p&gt;Apart from the leading story which ‘resurrects’ Holmes, this collection contains a number of the best-known Holmes stories. “The Adventure of the Dancing Men” has Holmes deciphering a cryptogram to solve a mystery; encountering a callous blackmailer in “The Adventure of Charles Augustus Milverton;” working out why cheap busts of Napoleon are being shattered all over London; and possibly averting a major European war in “The Adventure of the Second Stain.”&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
@@ -100,22 +100,22 @@
 		<item href="images/r-letter.svg" id="r-letter.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="images/v-letter.svg" id="v-letter.svg" media-type="image/svg+xml"/>
-		<item href="text/the-adventure-of-the-empty-house.xhtml" id="the-adventure-of-the-empty-house.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-adventure-of-the-norwood-builder.xhtml" id="the-adventure-of-the-norwood-builder.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-adventure-of-the-dancing-men.xhtml" id="the-adventure-of-the-dancing-men.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/the-adventure-of-the-solitary-cyclist.xhtml" id="the-adventure-of-the-solitary-cyclist.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-adventure-of-the-priory-school.xhtml" id="the-adventure-of-the-priory-school.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/the-adventure-of-black-peter.xhtml" id="the-adventure-of-black-peter.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-adventure-of-charles-augustus-milverton.xhtml" id="the-adventure-of-charles-augustus-milverton.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-adventure-of-the-six-napoleons.xhtml" id="the-adventure-of-the-six-napoleons.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-adventure-of-the-three-students.xhtml" id="the-adventure-of-the-three-students.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-adventure-of-the-golden-pince-nez.xhtml" id="the-adventure-of-the-golden-pince-nez.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/the-adventure-of-the-missing-three-quarter.xhtml" id="the-adventure-of-the-missing-three-quarter.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/the-adventure-of-the-abbey-grange.xhtml" id="the-adventure-of-the-abbey-grange.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-adventure-of-the-second-stain.xhtml" id="the-adventure-of-the-second-stain.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/loi.xhtml" id="loi.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-adventure-of-black-peter.xhtml" id="the-adventure-of-black-peter.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-adventure-of-charles-augustus-milverton.xhtml" id="the-adventure-of-charles-augustus-milverton.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-adventure-of-the-abbey-grange.xhtml" id="the-adventure-of-the-abbey-grange.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-adventure-of-the-dancing-men.xhtml" id="the-adventure-of-the-dancing-men.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/the-adventure-of-the-empty-house.xhtml" id="the-adventure-of-the-empty-house.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-adventure-of-the-golden-pince-nez.xhtml" id="the-adventure-of-the-golden-pince-nez.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/the-adventure-of-the-missing-three-quarter.xhtml" id="the-adventure-of-the-missing-three-quarter.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/the-adventure-of-the-norwood-builder.xhtml" id="the-adventure-of-the-norwood-builder.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-adventure-of-the-priory-school.xhtml" id="the-adventure-of-the-priory-school.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/the-adventure-of-the-second-stain.xhtml" id="the-adventure-of-the-second-stain.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-adventure-of-the-six-napoleons.xhtml" id="the-adventure-of-the-six-napoleons.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-adventure-of-the-solitary-cyclist.xhtml" id="the-adventure-of-the-solitary-cyclist.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-adventure-of-the-three-students.xhtml" id="the-adventure-of-the-three-students.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
