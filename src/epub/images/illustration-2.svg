@@ -1,41 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/" xmlns:xlink="http://www.w3.org/1999/xlink" height="100%" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" version="1.1" viewBox="0 0 296 72" width="100%" xml:space="preserve">
-	<title>Second set of hieroglyphics, a line of nine small figures of dancing men in various attitudes.</title>
-	<path d="M264.304,16.939l-3.516,8.803l20.063,4.472l3.655,-10.528" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<path d="M257.147,48.163l4.732,-0.717l-5.494,-11.628l13.361,2.941l3.267,-13.735" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<path d="M272.383,59.285l-3.804,-1.205l6.173,-8.842l-5.713,-10.678" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<ellipse cx="272.815" cy="23.242" rx="3.35" ry="3.295" style="stroke:#000;stroke-width:0.75px;"/>
-	<path d="M170.843,19.47l11.532,9.795l11.698,-8.805" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<path d="M165.048,37.508l0.852,4.406l15.664,-3.236l0.743,-15.093" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<path d="M186.195,56.544l-4.574,-0.84l0.229,-17.981" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<ellipse cx="182.456" cy="21.831" rx="3.35" ry="3.295" style="stroke:#000;stroke-width:0.75px;"/>
-	<path d="M197.085,24.074l3.006,-4.156l10.961,15.504l10.558,-14.995l1.802,2.237" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<path d="M199.685,55.56l10.854,-7.821l0.738,-12.84" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<path d="M210.461,52.998l0.078,-5.259" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<ellipse cx="210.34" cy="55.806" rx="3.35" ry="3.295" style="stroke:#000;stroke-width:0.75px;"/>
-	<path d="M226.991,18.803l11.83,10.741l11.365,-9.519" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<path d="M227.545,54.21l3.695,2.095l7.245,-14.775l6.757,13.574l4.342,-1.825" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<path d="M238.857,42.773l0.675,-18.248" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<ellipse cx="239.346" cy="21.866" rx="3.35" ry="3.295" style="stroke:#000;stroke-width:0.75px;"/>
-	<path d="M74.235,18.041l11.315,9.826l10.991,-9.177" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<path d="M74.789,52.374l2.872,1.836l7.472,-14.395l0.789,-15.498" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<path d="M94.886,52.546l-2.474,1.997l-7.412,-14.838" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<ellipse cx="85.102" cy="21.428" rx="3.35" ry="3.295" style="stroke:#000;stroke-width:0.75px;"/>
-	<path d="M110.399,16.521l-2.863,7.502l16.461,5.744l-7.334,4.07" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<path d="M99.144,50.244l4.208,2.118l1.965,-10.672l9.973,-4.016l2.079,-14.829" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<path d="M120.051,57.164l-3.817,-2.072l5.949,-7.74l-7.296,-10.263" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<ellipse cx="117.721" cy="21.194" rx="3.35" ry="3.295" style="stroke:#000;stroke-width:0.75px;"/>
-	<path d="M131.366,19.61l10.176,8.246l11.316,-8.408" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<path d="M135.767,55.862l4.081,1.193l2.263,-31.544" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<path d="M159.264,37.364l-0.476,3.201l-16.481,-1.345" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<ellipse cx="142.172" cy="21.648" rx="3.35" ry="3.295" style="stroke:#000;stroke-width:0.75px;"/>
-	<path d="M10.65,18.156l10.904,8.805l12.315,-8.918" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<path d="M32.959,52.753l-5.619,-0.546l7.098,-11.307l-14,-3.301" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<ellipse cx="22.49" cy="19.442" rx="3.35" ry="3.295" style="stroke:#000;stroke-width:0.75px;"/>
-	<path d="M14.343,53.518l4.84,1.335l2.42,-32.731" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<path d="M41.567,20.998l2.669,-3.211l9.977,14.552l9.481,-12.987l2.37,2.305" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<path d="M43.33,57.582l10.554,-10.006l10.596,9.279l-0.116,4.637" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<path d="M54.074,31.383l-0.144,19.642" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<ellipse cx="53.537" cy="54.333" rx="3.35" ry="3.295" style="stroke:#000;stroke-width:0.75px;"/>
-	<path d="M69.958,57.61l-5.844,0.6l0.491,4.778l5.844,-0.6l-0.491,-4.778Z" style="stroke:#000;stroke-width:2.5px;"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 296 72" fill-rule="evenodd" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5"  preserveAspectRatio="xMidYMid meet">
+  <title>Second set of hieroglyphics, a line of nine small figures of dancing men in various attitudes.</title>
+  <path d="M264.304 16.939l-3.516 8.803 20.063 4.472 3.655-10.528" fill="none" stroke="#000" stroke-width="2.5"/>
+  <path d="M257.147 48.163l4.732-.717-5.494-11.628 13.361 2.941 3.267-13.735" fill="none" stroke="#000" stroke-width="2.5"/>
+  <path d="M272.383 59.285l-3.804-1.205 6.173-8.842-5.713-10.678" fill="none" stroke="#000" stroke-width="2.5"/>
+  <ellipse cx="272.815" cy="23.242" rx="3.35" ry="3.295" stroke="#000" stroke-width=".75"/>
+  <path d="M170.843 19.47l11.532 9.795 11.698-8.805" fill="none" stroke="#000" stroke-width="2.5"/>
+  <path d="M165.048 37.508l.852 4.406 15.664-3.236.743-15.093M186.195 56.544l-4.574-.84.229-17.981" fill="none" stroke="#000" stroke-width="2.5"/>
+  <ellipse cx="182.456" cy="21.831" rx="3.35" ry="3.295" stroke="#000" stroke-width=".75"/>
+  <path d="M197.085 24.074l3.006-4.156 10.961 15.504 10.558-14.995 1.802 2.237" fill="none" stroke="#000" stroke-width="2.5"/>
+  <path d="M199.685 55.56l10.854-7.821.738-12.84M210.461 52.998l.078-5.259" fill="none" stroke="#000" stroke-width="2.5"/>
+  <ellipse cx="210.34" cy="55.806" rx="3.35" ry="3.295" stroke="#000" stroke-width=".75"/>
+  <path d="M226.991 18.803l11.83 10.741 11.365-9.519M227.545 54.21l3.695 2.095 7.245-14.775 6.757 13.574 4.342-1.825M238.857 42.773l.675-18.248" fill="none" stroke="#000" stroke-width="2.5"/>
+  <ellipse cx="239.346" cy="21.866" rx="3.35" ry="3.295" stroke="#000" stroke-width=".75"/>
+  <path d="M74.235 18.041l11.315 9.826 10.991-9.177" fill="none" stroke="#000" stroke-width="2.5"/>
+  <path d="M74.789 52.374l2.872 1.836 7.472-14.395.789-15.498" fill="none" stroke="#000" stroke-width="2.5"/>
+  <path d="M94.886 52.546l-2.474 1.997L85 39.705" fill="none" stroke="#000" stroke-width="2.5"/>
+  <ellipse cx="85.102" cy="21.428" rx="3.35" ry="3.295" stroke="#000" stroke-width=".75"/>
+  <path d="M110.399 16.521l-2.863 7.502 16.461 5.744-7.334 4.07" fill="none" stroke="#000" stroke-width="2.5"/>
+  <path d="M99.144 50.244l4.208 2.118 1.965-10.672 9.973-4.016 2.079-14.829" fill="none" stroke="#000" stroke-width="2.5"/>
+  <path d="M120.051 57.164l-3.817-2.072 5.949-7.74-7.296-10.263" fill="none" stroke="#000" stroke-width="2.5"/>
+  <ellipse cx="117.721" cy="21.194" rx="3.35" ry="3.295" stroke="#000" stroke-width=".75"/>
+  <path d="M131.366 19.61l10.176 8.246 11.316-8.408" fill="none" stroke="#000" stroke-width="2.5"/>
+  <path d="M135.767 55.862l4.081 1.193 2.263-31.544M159.264 37.364l-.476 3.201-16.481-1.345" fill="none" stroke="#000" stroke-width="2.5"/>
+  <ellipse cx="142.172" cy="21.648" rx="3.35" ry="3.295" stroke="#000" stroke-width=".75"/>
+  <path d="M10.65 18.156l10.904 8.805 12.315-8.918M32.959 52.753l-5.619-.546L34.438 40.9l-14-3.301" fill="none" stroke="#000" stroke-width="2.5"/>
+  <ellipse cx="22.49" cy="19.442" rx="3.35" ry="3.295" stroke="#000" stroke-width=".75"/>
+  <path d="M14.343 53.518l4.84 1.335 2.42-32.731M41.567 20.998l2.669-3.211 9.977 14.552 9.481-12.987 2.37 2.305M43.33 57.582l10.554-10.006 10.596 9.279-.116 4.637M54.074 31.383l-.144 19.642" fill="none" stroke="#000" stroke-width="2.5"/>
+  <ellipse cx="53.537" cy="54.333" rx="3.35" ry="3.295" stroke="#000" stroke-width=".75"/>
+  <path d="M69.958 57.61l-5.844.6.491 4.778 5.844-.6-.491-4.778z" stroke="#000" stroke-width="2.5"/>
 </svg>

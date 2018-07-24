@@ -1,22 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/" xmlns:xlink="http://www.w3.org/1999/xlink" height="100%" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" version="1.1" viewBox="0 0 176 62" width="100%" xml:space="preserve">
-	<title>Fourth set of hieroglyphics, five small figures of dancing men in various attitudes.</title>
-	<ellipse cx="32.049" cy="13.167" rx="3.35" ry="3.295" style="stroke:#000;stroke-width:0.75px;"/>
-	<path d="M45.744,11.332l-19.839,12.569l8.202,7.173l5.948,6.944l-6.271,10.417l4.21,0.983" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<path d="M23.482,46.801l4.332,-2.268l-6.598,-7.285l10.757,-6.151l1.132,-15.242" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<path d="M51.134,11.473l9.906,8.602l11.072,-9.472" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<path d="M51.354,45.858l2.295,1.89l7.924,-13.044l0.042,-19.78" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<path d="M70.311,44.832l-2.617,2.308l-6.008,-11.862" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<ellipse cx="61.254" cy="12.571" rx="3.35" ry="3.295" style="stroke:#000;stroke-width:0.75px;"/>
-	<path d="M73.296,25.904l-0.09,4.069l17.295,-0.521" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<path d="M93.582,47.844l-3.435,-0.412l0.517,-32.412" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<ellipse cx="90.458" cy="11.975" rx="3.35" ry="3.295" style="stroke:#000;stroke-width:0.75px;"/>
-	<path d="M104.978,44.295l2.882,2.141l7.42,-12.894l-0.084,-19.177" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<path d="M124.886,44.936l-3.135,1.84l-6.224,-13.588" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<ellipse cx="114.834" cy="12.245" rx="3.35" ry="3.295" style="stroke:#000;stroke-width:0.75px;"/>
-	<path d="M104.157,9.898l11.007,8.952l10.393,-7.993" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<path d="M132.247,9.386l12.525,10.862l11.56,-10.588" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<path d="M138.813,45.265l4.666,1.665l1.349,-31.3" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<path d="M162.496,27.573l0.413,3.557l-18.639,-2.314" style="fill:none;stroke:#000;stroke-width:2.5px;"/>
-	<ellipse cx="144.957" cy="12.616" rx="3.35" ry="3.295" style="stroke:#000;stroke-width:0.75px;"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 176 62" fill-rule="evenodd" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5"  preserveAspectRatio="xMidYMid meet">
+  <title>Fourth set of hieroglyphics, five small figures of dancing men in various attitudes.</title>
+  <ellipse cx="32.049" cy="13.167" rx="3.35" ry="3.295" stroke="#000" stroke-width=".75"/>
+  <path d="M45.744 11.332L25.905 23.901l8.202 7.173 5.948 6.944-6.271 10.417 4.21.983" fill="none" stroke="#000" stroke-width="2.5"/>
+  <path d="M23.482 46.801l4.332-2.268-6.598-7.285 10.757-6.151 1.132-15.242M51.134 11.473l9.906 8.602 11.072-9.472" fill="none" stroke="#000" stroke-width="2.5"/>
+  <path d="M51.354 45.858l2.295 1.89 7.924-13.044.042-19.78M70.311 44.832l-2.617 2.308-6.008-11.862" fill="none" stroke="#000" stroke-width="2.5"/>
+  <ellipse cx="61.254" cy="12.571" rx="3.35" ry="3.295" stroke="#000" stroke-width=".75"/>
+  <path d="M73.296 25.904l-.09 4.069 17.295-.521" fill="none" stroke="#000" stroke-width="2.5"/>
+  <path d="M93.582 47.844l-3.435-.412.517-32.412" fill="none" stroke="#000" stroke-width="2.5"/>
+  <ellipse cx="90.458" cy="11.975" rx="3.35" ry="3.295" stroke="#000" stroke-width=".75"/>
+  <path d="M104.978 44.295l2.882 2.141 7.42-12.894-.084-19.177M124.886 44.936l-3.135 1.84-6.224-13.588" fill="none" stroke="#000" stroke-width="2.5"/>
+  <ellipse cx="114.834" cy="12.245" rx="3.35" ry="3.295" stroke="#000" stroke-width=".75"/>
+  <path d="M104.157 9.898l11.007 8.952 10.393-7.993M132.247 9.386l12.525 10.862 11.56-10.588" fill="none" stroke="#000" stroke-width="2.5"/>
+  <path d="M138.813 45.265l4.666 1.665 1.349-31.3M162.496 27.573l.413 3.557-18.639-2.314" fill="none" stroke="#000" stroke-width="2.5"/>
+  <ellipse cx="144.957" cy="12.616" rx="3.35" ry="3.295" stroke="#000" stroke-width=".75"/>
 </svg>
