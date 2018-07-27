@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/arthur-conan-doyle/the-return-of-sherlock-holmes</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
-		<meta property="se:revision-number">0</meta>
+		<dc:date>2018-07-27T21:25:04Z</dc:date>
+		<meta property="dcterms:modified">2018-07-27T21:25:04Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -36,20 +36,20 @@
 		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/108</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
-		<dc:description id="description">The world’s first consulting detective returns to London after having faked his death some years before and again investigates a series of baffling mysteries.</dc:description>
+		<dc:description id="description">The world’s first consulting detective returns to London after having faked his death some years before, and investigates a series of baffling mysteries.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Return of Sherlock Holmes&lt;/i&gt; is the third collection of Holmes stories by Arthur Conan Doyle, published in 1905. It includes stories published in &lt;i&gt;The Strand Magazine&lt;/i&gt; in 1903 and 1904, so bringing Holmes for the first time into the twentieth century.&lt;/p&gt;
-			&lt;p&gt;Doyle had memorably ‘killed off’ Holmes in a struggle with his nemesis Professor Moriarty in the story “The Final Problem,” which had appeared in 1893 (and which is included in the collection &lt;i&gt;The Memoirs of Sherlock Holmes&lt;/i&gt;). Intense public demand for more Holmes material after that time had led to Doyle writing the novel &lt;i&gt;The Hound of the Baskervilles&lt;/i&gt;, and then finally to return to writing Holmes short stories once more. The first story in this collection, “The Adventure of the Empty House” finds Dr. Watson united once again with his old friend Sherlock Holmes, who explains how and why he faked his death at the Reichenbach Falls.&lt;/p&gt;
-			&lt;p&gt;Apart from the leading story which ‘resurrects’ Holmes, this collection contains a number of the best-known Holmes stories. “The Adventure of the Dancing Men” has Holmes deciphering a cryptogram to solve a mystery; encountering a callous blackmailer in “The Adventure of Charles Augustus Milverton;” working out why cheap busts of Napoleon are being shattered all over London; and possibly averting a major European war in “The Adventure of the Second Stain.”&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Return of Sherlock Holmes&lt;/i&gt; is the third collection of Holmes stories by Arthur Conan Doyle, published in 1905. It includes stories published in &lt;i&gt;The Strand Magazine&lt;/i&gt; in 1903 and 1904, bringing Holmes for the first time into the twentieth century.&lt;/p&gt;
+			&lt;p&gt;Doyle had memorably “killed off” Holmes in a struggle with his nemesis Professor Moriarty in the story “The Final Problem,” which had appeared in 1893 (and which is included in the collection &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/arthur-conan-doyle/the-memoirs-of-sherlock-holmes"&gt;The Memoirs of Sherlock Holmes&lt;/a&gt;&lt;/i&gt;). Intense public demand for more Holmes material after that had led to Doyle writing the novel &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/arthur-conan-doyle/the-hound-of-the-baskervilles"&gt;The Hound of the Baskervilles&lt;/a&gt;&lt;/i&gt;, and then finally to return to writing Holmes short stories once more. The first story in this collection, “The Adventure of the Empty House” finds Dr. Watson united once again with his old friend Sherlock Holmes, who explains how and why he faked his death at Reichenbach Falls.&lt;/p&gt;
+			&lt;p&gt;Apart from the leading story which “resurrects” Holmes, this collection contains a number of the best-known Holmes stories. “The Adventure of the Dancing Men” has Holmes deciphering a cryptogram to solve a mystery; encountering a callous blackmailer in “The Adventure of Charles Augustus Milverton;” working out why cheap busts of Napoleon are being shattered all over London; and possibly averting a major European war in “The Adventure of the Second Stain.”&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/108</dc:source>
 		<dc:source>https://archive.org/details/returnsherlockh00doylgoog</dc:source>
 		<meta property="se:production-notes">Because of the very poor quality of page scans, I have hand-traced and partially re-created the figures of the dancing men in the story of that name.</meta>
-		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:reading-ease.flesch">READINGEASE</meta>
+		<meta property="se:word-count">113333</meta>
+		<meta property="se:reading-ease.flesch">73.47</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Return_of_Sherlock_Holmes</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/arthur-conan-doyle_the-return-of-sherlock-holmes</meta>
 		<dc:creator id="author">Arthur Conan Doyle</dc:creator>
@@ -58,6 +58,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Arthur_Conan_Doyle</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79082292</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist">William Logsdail</dc:contributor>
 		<meta property="file-as" refines="#artist">Logsdail, William</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/William_Logsdail</meta>
@@ -78,6 +79,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
