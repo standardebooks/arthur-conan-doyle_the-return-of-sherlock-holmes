@@ -5,18 +5,6 @@ abbr.name{
 	white-space: nowrap;
 }
 
-abbr.initialism{
-	white-space: nowrap;
-}
-
-abbr.postal{
-	white-space: nowrap;
-}
-
-abbr.degree{
-	white-space: nowrap;
-}
-
 b{
 	font-variant: small-caps;
 	font-weight: normal;
