@@ -1,15 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-abbr.name{
-	white-space: nowrap;
-}
-
-b{
-	font-variant: small-caps;
-	font-weight: normal;
-}
-
 .visiting-card{
 	text-align: center;
 	font-variant: small-caps;
@@ -61,6 +52,7 @@ figcaption{
 
 [epub|type~="z3998:letter"] header{
 	margin-bottom: 1em;
+	text-align: left;
 }
 
 [epub|type~="z3998:letter"] footer{
