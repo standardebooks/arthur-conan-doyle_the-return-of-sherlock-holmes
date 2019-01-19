@@ -1,7 +1,7 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-.visiting-card{
+#the-adventure-of-charles-augustus-milverton blockquote{
 	text-align: center;
 	font-variant: small-caps;
 }
