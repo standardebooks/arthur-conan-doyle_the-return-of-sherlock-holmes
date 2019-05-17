@@ -26,25 +26,25 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Return of Sherlock Holmes</dc:title>
 		<meta property="file-as" refines="#title">Return of Sherlock Holmes, The</meta>
 		<dc:subject id="subject-1">Holmes, Sherlock (Fictitious character) -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Detective and mystery stories, English</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/108</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/108</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">Unknown</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85037269</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
 		<meta property="se:subject">Shorts</meta>
 		<meta property="se:collection">Sherlock Holmes</meta>
 		<dc:description id="description">The world’s first consulting detective returns to London after having faked his death some years before, and investigates a series of baffling mysteries.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Return of Sherlock Holmes&lt;/i&gt; is the third collection of Holmes stories by Arthur Conan Doyle, published in 1905. It includes stories published in &lt;i&gt;The Strand Magazine&lt;/i&gt; in 1903 and 1904, bringing Holmes for the first time into the twentieth century.&lt;/p&gt;
 			&lt;p&gt;Doyle had memorably “killed off” Holmes in a struggle with his nemesis Professor Moriarty in the story “The Final Problem,” which had appeared in 1893 (and which is included in the collection &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/arthur-conan-doyle/the-memoirs-of-sherlock-holmes"&gt;The Memoirs of Sherlock Holmes&lt;/a&gt;&lt;/i&gt;). Intense public demand for more Holmes material after that had led to Doyle writing the novel &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/arthur-conan-doyle/the-hound-of-the-baskervilles"&gt;The Hound of the Baskervilles&lt;/a&gt;&lt;/i&gt;, and then finally to return to writing Holmes short stories once more. The first story in this collection, “The Adventure of the Empty House” finds Dr. Watson united once again with his old friend Sherlock Holmes, who explains how and why he faked his death at Reichenbach Falls.&lt;/p&gt;
 			&lt;p&gt;Apart from the leading story which “resurrects” Holmes, this collection contains a number of the best-known Holmes stories. “The Adventure of the Dancing Men” has Holmes deciphering a cryptogram to solve a mystery; encountering a callous blackmailer in “The Adventure of Charles Augustus Milverton;” working out why cheap busts of Napoleon are being shattered all over London; and possibly averting a major European war in “The Adventure of the Second Stain.”&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/108</dc:source>
 		<dc:source>https://archive.org/details/returnsherlockh00doylgoog</dc:source>
