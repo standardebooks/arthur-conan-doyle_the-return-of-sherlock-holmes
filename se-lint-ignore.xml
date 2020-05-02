@@ -6,4 +6,10 @@
 			<reason>Period followed by a lowercase is in a special code.</reason>
 		</ignore>
 	</file>
+	<file path="the-adventure-of-the-priory-school.xhtml">
+		<ignore>
+			<code>t-041</code>
+			<reason>The punctuation is part of a special code.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
