@@ -5,6 +5,10 @@
 			<code>t-029</code>
 			<reason>Period followed by a lowercase is in a special code.</reason>
 		</ignore>
+		<ignore>
+			<code>t-042</code>
+			<reason>Matched text is not a typo.</reason>
+		</ignore>
 	</file>
 	<file path="the-adventure-of-the-priory-school.xhtml">
 		<ignore>
