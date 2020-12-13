@@ -2,8 +2,8 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 #the-adventure-of-charles-augustus-milverton blockquote{
-	text-align: center;
 	font-variant: small-caps;
+	text-align: center;
 }
 
 .decoded-message{
@@ -56,8 +56,9 @@ figcaption{
 	text-align: left;
 }
 
-[epub|type~="z3998:letter"] footer{
+footer{
 	margin-top: 1em;
+	text-align: right;
 }
 
 [epub|type~="z3998:salutation"],
@@ -66,15 +67,7 @@ figcaption{
 	text-indent: 0;
 }
 
-[epub|type~="z3998:valediction"]{
-	text-align: right;
-}
-
-[epub|type~="z3998:sender"]{
-	font-variant: small-caps;
-	text-align: right;
-}
-
+[epub|type~="z3998:sender"],
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
