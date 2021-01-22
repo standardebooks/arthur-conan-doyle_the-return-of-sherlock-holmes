@@ -36,10 +36,6 @@ figure.dancing-men img{
 	width: 40%;
 }
 
-figure + p{
-	text-indent: 0;
-}
-
 figcaption{
 	font-size: .75em;
 	font-style: italic;
