@@ -53,7 +53,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/108</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_Return_of_Sherlock_Holmes/Le49AQAAMAAJ</dc:source>
 		<meta property="se:production-notes">Because of the very poor quality of page scans, I have hand-traced and partially re-created the figures of the dancing men in the story of that name.</meta>
-		<meta property="se:word-count">113343</meta>
+		<meta property="se:word-count">113344</meta>
 		<meta property="se:reading-ease.flesch">73.37</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Return_of_Sherlock_Holmes</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/arthur-conan-doyle_the-return-of-sherlock-holmes</meta>
