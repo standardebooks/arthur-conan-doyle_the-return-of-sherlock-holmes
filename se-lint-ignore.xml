@@ -6,7 +6,7 @@
 			<reason>Period followed by a lowercase is in a special code.</reason>
 		</ignore>
 		<ignore>
-			<code>t-042</code>
+			<code>y-016</code>
 			<reason>Matched text is not a typo.</reason>
 		</ignore>
 	</file>
