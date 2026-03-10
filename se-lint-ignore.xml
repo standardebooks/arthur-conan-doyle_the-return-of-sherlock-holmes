@@ -2,17 +2,24 @@
 <se-lint-ignore>
 	<file path="the-adventure-of-the-dancing-men.xhtml">
 		<ignore code="t-029">
+			<line>197</line>
 			<reason>Period followed by a lowercase is in a special code.</reason>
 		</ignore>
 		<ignore code="y-016">
+			<line>185</line>
 			<reason>Matched text is not a typo.</reason>
 		</ignore>
 		<ignore code="y-034">
+			<line>185</line>
+			<line>189</line>
+			<line>197</line>
+			<line>204</line>
 			<reason>Matched text is not a typo.</reason>
 		</ignore>
 	</file>
 	<file path="the-adventure-of-the-priory-school.xhtml">
 		<ignore code="t-041">
+			<line>241</line>
 			<reason>The punctuation is part of a special code.</reason>
 		</ignore>
 	</file>
